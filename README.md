@@ -1,12 +1,10 @@
-🏅 Active Developer Badge Helper Bot
-====================================
+# 🏅 Active Developer Badge Helper Bot
 
-Badges:
--------
-[License: MIT] https://img.shields.io/badge/License-MIT-blue.svg (https://opensource.org/licenses/MIT)  
-[Python 3.11+] https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white (https://www.python.org/)  
-[Made by Reverse] https://img.shields.io/badge/Made%20by-Reverse-%23ff69b4 (https://github.com/reversepy)  
-[Join Discord] https://img.shields.io/discord/1376577777524015105?label=Join%20Discord&logo=discord&color=5865F2 (https://discord.gg/nitrogang)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
+[![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white)](https://www.python.org/)  
+[![Made by Reverse](https://img.shields.io/badge/Made%20by-Reverse-%23ff69b4)](https://github.com/reversepy)  
+[![Discord](https://img.shields.io/discord/1376577777524015105?label=Join%20Discord&logo=discord&color=5865F2)](https://discord.gg/nitrogang)
+
 
 ---
 
